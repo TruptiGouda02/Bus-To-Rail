@@ -206,7 +206,7 @@ async function matcher() {
         </head>
         <body>
             <h1>Train Details</h1>
-            <a href="Railroute.html" class="back-link">Back</a>
+            <a href="https://truptigouda02.github.io/Bus-To-Rail/RailRoute/Railroute.html" class="back-link">Back</a>
       `;
 
       matchingTrains.forEach(train => {
@@ -327,7 +327,7 @@ async function getTrainDetails() {
         </head>
         <body>
             <h1>Train Details</h1>
-            <a href="Railroute.html" class="back-link">Back</a>
+            <a href="https://truptigouda02.github.io/Bus-To-Rail/RailRoute/Railroute.html" class="back-link">Back</a>
       `;
 
       matchingTrains.forEach(train => {
